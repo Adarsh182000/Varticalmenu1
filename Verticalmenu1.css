@@ -1,0 +1,26 @@
+body{
+  
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: navy;
+    width: 20%;
+    height: 100vh;
+}
+#cont{
+    list-style-type: none
+    }
+
+ a{color: white;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    font-size:20px ;
+    gap: 20px;
+ }  
+ a:hover {
+    background-color: yellow;
+    color: red;
+ }
